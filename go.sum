@@ -1,0 +1,4 @@
+github.com/tinyweet/go-lib-toy v1.0.2 h1:MtzDhFmE1xesgkhNXqD0tKdrFwomjYUSU3S52IxEtJw=
+github.com/tinyweet/go-lib-toy v1.0.2/go.mod h1:3bdHm/bOv5zPe/grZxq367tjBKRJRwj+UELXpBD7SN0=
+github.com/tinyweet/go-lib-toy/v2 v2.0.0 h1:cw/NMcFhwDVz8vRLwIMjOPL0DyXTUsy/bNGgAqsWPw0=
+github.com/tinyweet/go-lib-toy/v2 v2.0.0/go.mod h1:nNQTk0oeO0glidRtFbhnfRFT6Psg/UdR1UXRg276Ym0=
